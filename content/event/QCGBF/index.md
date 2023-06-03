@@ -4,8 +4,7 @@ title: QCGBF, Annual Conference 2023
 event: Qatar Center for Global Banking & Finance, Annual Conference 2023
 event_url: https://www.qcgbfconference.org/
 
-location: King's Business School
-Bush House
+location: King's Business School Bush House
 address:
   street: 30 Aldwych
   city: London
