@@ -13,7 +13,7 @@ address:
   postcode: '90095'
   country: United States
 
-summary: The Investment Channel of Monetary Policy.
+summary: "The Investment Channel of Monetary Policy: Evidence from Norway".
 abstract: 'We investigate the transmission of monetary policy to investment using Norwegian administrative data. We have two main findings. First, financially constrained firms are more responsive to monetary policy, but the effect is modest; suggesting that firm heterogeneity plays a minor role in monetary transmission. Second, we disentangle the investment channel of monetary policy into direct effects from interest rate changes and indirect general equilibrium effects. We find that the investment channel of monetary policy is due almost exclusively to direct effects. The two results imply that a representative firm framework with investment adjustment frictions in most cases provides a sufficiently detailed description of the investment channel of monetary policy.'
 
 # Talk start and end times.
