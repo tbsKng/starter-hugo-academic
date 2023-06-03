@@ -25,13 +25,21 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: []
-tags: []
+authors:
+  - Jin Cao
+  - Torje Hegna
+  - Martin B. Holm
+  - Ragnar Juelsrud
+  - admin
+  - Mikkel Riiser
+tags:
+  - Monetary Policy
+  - Investment
 
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
+image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
