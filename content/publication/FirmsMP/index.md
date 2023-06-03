@@ -42,7 +42,9 @@ abstract:  We investigate the transmission of monetary policy to investment usin
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+  - Monetary Policy
+  - Investment
 
 # Display this page in the Featured widget?
 featured: false
@@ -52,7 +54,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '[https://www.diw.de/documents/publikationen/73/diw_01.c.790118.de/dp1873.pdf](https://drive.google.com/drive/folders/11krYR3Euvaqj_XayCFUu-et3d3bkiZBI)'
+url_pdf: 'https://drive.google.com/file/d/118NafFV4Tk6lGbdE-mO8aQDrtpr9nBQF/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''

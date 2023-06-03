@@ -36,7 +36,10 @@ abstract:  Recent proposals for a still missing European deposit insurance schem
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags: 
+  - Banking Union
+  - Deposit Insurance
+  - Risk-Sharing
 
 # Display this page in the Featured widget?
 featured: false

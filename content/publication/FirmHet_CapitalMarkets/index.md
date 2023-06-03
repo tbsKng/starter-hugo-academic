@@ -26,13 +26,17 @@ abstract: I investigate the importance of different types of financial constrain
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Firm Heterogeneity
+- Capital Markets
+- External Equity Financing
+- Granular Instrumental Variable
+- Financial Constraints
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://drive.google.com/drive/folders/11krYR3Euvaqj_XayCFUu-et3d3bkiZBI'
+url_pdf: 'https://drive.google.com/file/d/1Ji2rqj7YTyLYB589T1fQArlpY2mupdQt/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
