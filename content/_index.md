@@ -225,6 +225,7 @@ sections:
       filters:
         folders:
           - event
+          - QCGBF
     design:
       columns: '2'
       view: compact
