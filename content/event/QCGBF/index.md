@@ -38,7 +38,7 @@ tags:
 # Is this a featured talk? (true/false)
 featured: true
 
-image: []
+image:
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
@@ -48,7 +48,7 @@ links:
     name: Follow
     url: https://twitter.com/Tobi_Koenig
 url_code: ''
-url_pdf: 'https://drive.google.com/file/d/118NafFV4Tk6lGbdE-mO8aQDrtpr9nBQF/view?usp=sharing'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
