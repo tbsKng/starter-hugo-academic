@@ -14,14 +14,18 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'Norges Bank'
+  - 'The Norwegian Ministry of Finance'
+  - 'University of Oslo'
+  - 'Norges Bank'
+  - 'University of Bonn'
+  - 'BI Norwegian Business School'
 
-date: '2013-07-01T00:00:00Z'
+date: '2023-05-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+# publishDate: '2023-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,8 +34,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Norges Bank Working Paper Series*
-publication_short: In *NB WP Series*
+# publication: In *Norges Bank Working Paper Series*
+# publication_short: In *NB WP Series*
 
 abstract:  We investigate the transmission of monetary policy to investment using Norwegian administrative data. We have two main findings. First, financially constrained firms are more responsive to monetary policy, but the effect is modest; suggesting that firm heterogeneity plays a minor role in monetary transmission. Second, we disentangle the investment channel of monetary policy into direct effects from interest rate changes and indirect general equilibrium effects. We find that the investment channel of monetary policy is due almost exclusively to direct effects. The two results imply that a representative firm framework with investment adjustment frictions in most cases provides a sufficiently detailed description of the investment channel of monetary policy.
 
@@ -59,25 +63,25 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
