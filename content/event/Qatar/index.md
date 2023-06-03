@@ -57,8 +57,8 @@ url_video: ''
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-working_papers:
- - FirmsMP
+# working_papers:
+#  - FirmsMP
 ---
 
 <!-- {{% callout note %}}
