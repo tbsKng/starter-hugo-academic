@@ -45,7 +45,7 @@ abstract:  We investigate the transmission of monetary policy to investment usin
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
