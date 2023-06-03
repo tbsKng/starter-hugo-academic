@@ -1,23 +1,24 @@
 ---
-title: NASM 2023
+title: QCGBF, Annual Conference 2023
 
-event: Econometric Society, North American Summer Meeting
-event_url: https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM-Los-Angeles-CA
+event: Qatar Center for Global Banking & Finance, Annual Conference 2023
+event_url: https://www.qcgbfconference.org/
 
-location: UCLA
+location: King's Business School
+Bush House
 address:
-  street: Bunche Hall, 315 Portola Plaza
-  city: Los Angeles
-  region: CA
-  postcode: '90095'
-  country: United States
+  street: 30 Aldwych
+  city: London
+  region: London
+  postcode: 'WC2B 4BG'
+  country: United Kingdom
 
 summary: 'The Investment Channel of Monetary Policy: Evidence from Norway'.
 abstract: 'We investigate the transmission of monetary policy to investment using Norwegian administrative data. We have two main findings. First, financially constrained firms are more responsive to monetary policy, but the effect is modest; suggesting that firm heterogeneity plays a minor role in monetary transmission. Second, we disentangle the investment channel of monetary policy into direct effects from interest rate changes and indirect general equilibrium effects. We find that the investment channel of monetary policy is due almost exclusively to direct effects. The two results imply that a representative firm framework with investment adjustment frictions in most cases provides a sufficiently detailed description of the investment channel of monetary policy.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-06-23T13:00:00Z'
+date: '2023-07-06T17:15:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
