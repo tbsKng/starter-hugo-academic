@@ -13,13 +13,13 @@ address:
   postcode: '90095'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: The Investment Channel of Monetary Policy: Evidence from Norway.
+abstract: 'We investigate the transmission of monetary policy to investment using Norwegian administrative data. We have two main findings. First, financially constrained firms are more responsive to monetary policy, but the effect is modest; suggesting that firm heterogeneity plays a minor role in monetary transmission. Second, we disentangle the investment channel of monetary policy into direct effects from interest rate changes and indirect general equilibrium effects. We find that the investment channel of monetary policy is due almost exclusively to direct effects. The two results imply that a representative firm framework with investment adjustment frictions in most cases provides a sufficiently detailed description of the investment channel of monetary policy.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-06-23T13:45:00Z'
+date_end: '2023-06-23T14:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
