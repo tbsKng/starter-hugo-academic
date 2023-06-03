@@ -205,6 +205,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: workingpapers
     content:
       title: Working Papers and Work in Progress
       text: |-
@@ -219,7 +220,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: talks
+    id: presentations
     content:
       title: Recent & Upcoming Presentations
       filters:
