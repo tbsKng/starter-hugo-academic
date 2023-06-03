@@ -1,15 +1,16 @@
 ---
-title: Example Talk
+title: NASM 2023
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Econometric Society, North American Summer Meeting
+event_url: https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM-Los-Angeles-CA
 
-location: Wowchemy HQ
+
+location: UCLA
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: Bunche Hall, 315 Portola Plaza
+  city: Los Angeles
   region: CA
-  postcode: '94305'
+  postcode: '90095'
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
@@ -30,15 +31,15 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/Tobi_Koenig
 url_code: ''
 url_pdf: ''
 url_slides: ''
