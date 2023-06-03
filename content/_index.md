@@ -193,27 +193,27 @@ sections:
  #       {{< gallery album="demo" >}}
  #   design:
  #     columns: '1'
+  # - block: collection
+  #   id: featured
+  #   content:
+  #     title: Featured Publications
+  #     filters:
+  #       folders:
+  #         - publication
+  #       featured_only: true
+  #   design:
+  #     columns: '2'
+  #     view: card
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Working Papers and Work in Progress
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Quickly discover relevant content by [filtering publications](./working_papers/).
         {{% /callout %}}
       filters:
         folders:
-          - publication
+          - working_papers
         exclude_featured: true
     design:
       columns: '2'
