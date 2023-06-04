@@ -205,9 +205,9 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
-    id: publication
+    id: workingpapers
     content:
-      title: Publications
+      title: Working Papers and Work in Progress
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -219,21 +219,21 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: workingpapers
-    content:
-      title: Working Papers and Work in Progress
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./working_papers/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - working_papers
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+  # - block: collection
+  #   id: workingpapers
+  #   content:
+  #     title: Working Papers and Work in Progress
+  #     text: |-
+  #       {{% callout note %}}
+  #       Quickly discover relevant content by [filtering publications](./working_papers/).
+  #       {{% /callout %}}
+  #     filters:
+  #       folders:
+  #         - working_papers
+  #       exclude_featured: true
+  #   design:
+  #     columns: '2'
+  #     view: citation
   - block: collection
     id: presentations
     content:

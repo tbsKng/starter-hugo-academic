@@ -1,21 +1,17 @@
 ---
-title: 'The Macroeconomic Effects of a European Deposit (Re-)Insurance Scheme'
+title: 'The Financial Accelerator, Wages, and Optimal Monetary Policy'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Marius Clemens
-  - Stefan Gebauer
   - admin
 
 # Author notes (optional)
 author_notes:
-  - 'The German Ministry of Finance'
-  - 'The European Central Bank'
-  - 'University of Bonn'
+  - 'DIW Berlin and Humboldt University of Berlin'
 
-date: '2023-04-18T00:00:00Z'
+date: '2020-04-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -28,28 +24,29 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *DIW Discussion Papers, 1873*
-publication_short: In *DIW Discussion Papers, 1873*
+publication: In *DIW Discussion Papers, 1860*
+publication_short: In *DIW Discussion Papers, 1860*
 
-abstract:  Recent proposals for a still missing European deposit insurance scheme (EDIS) argue in favor of a reinsurance framework. In this paper, we use a regime-switching open-economy DSGE model with bank default to assess the relative efficiency of such a scheme. We find that reinsurance by EDIS is more effective in stabilizing real activity, credit, and welfare than a national fiscal backstop. We demonstrate that risk-weighted contributions to EDIS are welfare-beneficial for depositors and discuss trade-offs policymakers face during the implementation of EDIS. We also find that macroprudential regulation and EDIS can complement each other and that EDIS can prevent bank runs under certain conditions.
+abstract:  This paper studies the effects of labor market outcomes on firms’ loan demand and on credit intermediation. In a first step, I investigate how wages in the production sector affect bank net worth and the process of financial intermediation in partial equilibrium. Second, the role of the identified channels are studied in general equilibrium using a newKeynesian DSGE-model with financial frictions and an endogenous financial accelerator mechanism. Third, I investigate how perfect and imperfect labor markets, in a setting with interactions between production factor costs and the intermediation of credit, affect the transmission   mechanism of monetary policy. The analysis reveals that financial frictions reduce the factor demand elasticity of capital to a change in wages. This finding is relevant for the determination of optimal monetary policy, both for financial shocks and supply shocks inflation stabilization imposes high welfare costs. At the same time, stabilizing nominal wages becomes welfare beneficial by reducing both the volatility of the credit spread and the output gap.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: 
-  - Banking Union
-  - Deposit Insurance
-  - Risk-Sharing
+  - Financial Accelerator
+  - Monetary Policy;
+  - Nominal Rigidities
+  - Factor Costs
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-links:
- - name: Policy Report
-   url: https://www.diw.de/documents/publikationen/73/diw_01.c.795607.de/dwr-20-32-1.pdf
+# links:
+#  - name: Policy Report
+#    url: https://www.diw.de/documents/publikationen/73/diw_01.c.795607.de/dwr-20-32-1.pdf
 
-url_pdf: 'https://www.diw.de/documents/publikationen/73/diw_01.c.790118.de/dp1873.pdf'
+url_pdf: 'https://www.diw.de/documents/publikationen/73/diw_01.c.758729.de/dp1860.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -86,8 +83,6 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html). -->
-
-**Revise and resubmit at Journal of Money, Credit and Banking**
+<!-- News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html). -->

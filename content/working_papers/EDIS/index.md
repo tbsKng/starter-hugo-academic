@@ -80,7 +80,7 @@ url_video: ''
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -88,6 +88,6 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html).
+News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html). -->
 
 **Revise and resubmit at Journal of Money, Credit and Banking**
