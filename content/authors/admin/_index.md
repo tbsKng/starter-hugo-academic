@@ -38,7 +38,7 @@ education:
     - course: PhD in Economics
       institution: Humboldt University of Berlin
       year: 2022
-    - course: MEng in Economics
+    - course: MSc in Economics
       institution: Humboldt University of Berlin
       year: 2016
     - course: BSc in Economics
