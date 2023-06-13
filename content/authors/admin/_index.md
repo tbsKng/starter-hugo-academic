@@ -22,7 +22,7 @@ organizations:
     url: https://www.econ.uni-bonn.de/ifs/en/finance
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a postdoctoral researcher at the [Institute of Finance and Statistics](https://www.econ.uni-bonn.de/ifs/en/people/finance-group) at the economics department of the University of Bonn and the [Collaborative Research Center (CRC) TR 224](https://www.crctr224.de/en).
+bio: I am a postdoctoral researcher at the Institute of Finance and Statistics at the economics department of the University of Bonn and the Collaborative Research Center (CRC) TR 224.
 
 # Otherwise write about research interests.
 
