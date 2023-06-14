@@ -17,7 +17,7 @@ publishDate: "2023-02-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*unpublished"
+publication: ""
 publication_short: ""
 
 abstract: I investigate the importance of different types of financial constraints on firms for the transmission of aggregate equity demand shocks and monetary policy shocks. I construct an aggregate series for equity financing shocks from firm-level data using the Granular Instrumental Variables strategy. I find that firms with high expected future profitability increase their investment relatively more when capital market funding conditions are exogenously improved. The relevance of Tobin’s Q cannot be confirmed however for the transmission of monetary policy shocks. Instead, firm liquidity explains the heterogeneity in firm investment rates. The level of firm debt is only significant for the transmission of monetary policy prior to the zero lower bound periods. My results imply that policymakers have to consider the role of both monetary policy and access to capital markets to stimulate firm investment.
