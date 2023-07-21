@@ -82,7 +82,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at the [Institute of Finance and Statistics](https://www.econ.uni-bonn.de/ifs/en/people/finance-group) at the economics department of the University of Bonn and the [Collaborative Research Center (CRC) TR 224](https://www.crctr224.de/en).
+I am a postdoctoral researcher at the [Institute of Finance and Statistics](https://www.econ.uni-bonn.de/ifs/en/people/finance-group) at the economics department of the University of Bonn and the [Collaborative Research Center (CRC) TR 224](https://www.crctr224.de/).
 
 Download my [CV](https://drive.google.com/file/d/1P06EGwYLWAVI11RaJ3niweeRuwVpCi4E/view?usp=sharing).
 {style="text-align: justify;"}
