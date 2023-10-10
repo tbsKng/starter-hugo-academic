@@ -258,7 +258,7 @@ sections:
       # text: |-
       #   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: [tkoenig(at)uni-bonn.de] (tkoenig@uni-bonn.de)
+      email: tkoenig(at)uni-bonn.de
       phone: +49 22 873 60001
       appointment_url: 'https://calendly.com/tbs-koenig/30min'
       address:
