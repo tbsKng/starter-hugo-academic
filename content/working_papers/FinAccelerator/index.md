@@ -25,7 +25,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *DIW Discussion Papers, 1860*
-publication_short: In *DIW Discussion Papers, 1860*
+publication_short: In *DIW Discussion Papers, 1860*. Currently **R&R** in **Journal of International Money and Finance**
 
 abstract:  This paper studies the effects of labor market outcomes on firms’ loan demand and on credit intermediation. In a first step, I investigate how wages in the production sector affect bank net worth and the process of financial intermediation in partial equilibrium. Second, the role of the identified channels are studied in general equilibrium using a newKeynesian DSGE-model with financial frictions and an endogenous financial accelerator mechanism. Third, I investigate how perfect and imperfect labor markets, in a setting with interactions between production factor costs and the intermediation of credit, affect the transmission   mechanism of monetary policy. The analysis reveals that financial frictions reduce the factor demand elasticity of capital to a change in wages. This finding is relevant for the determination of optimal monetary policy, both for financial shocks and supply shocks inflation stabilization imposes high welfare costs. At the same time, stabilizing nominal wages becomes welfare beneficial by reducing both the volatility of the credit spread and the output gap.
 
