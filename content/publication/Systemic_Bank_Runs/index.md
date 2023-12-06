@@ -26,7 +26,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
-publication_short: ""
+publication_short: "**Draft coming soon.**"
 
 abstract: We study the macroeconomic causes and consequences of bank runs in 178 countries over the period of 1800-2022. A new narrative chronology of bank run events coupled with a newly constructed historical dataset on banking sector deposits allows us to distinguish between \textit{systemic} bank runs---those associated with substantial declines in aggregate deposits---and more \textit{idiosyncratic} episodes. We find that bank runs are typically associated with large contractions in deposits, credit, and output, as well as exchange rate crashes and sudden stops. The size of the deposit contraction during runs, in turn, predicts the severity of output declines, highlighting that bank runs are particularly costly when they are systemic in nature. Using several sources of historical and contemporary bank-level data, we show that systemic bank runs are associated with a wide dispersion in deposit growth rates and a flow of deposits from more leveraged to safer banks. Taken together, our analysis highlights a key role for the liability side of banks in financial crises, and our new quantitatively validated measures of runs offer unprecedented scope to study such episodes.
 
