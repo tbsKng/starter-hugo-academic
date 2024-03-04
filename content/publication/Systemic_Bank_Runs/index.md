@@ -1,15 +1,15 @@
 ---
-title: "222 Years of Systemic Bank Runs"
+title: "Two Centuries of Systemic Bank Runs"
 authors:
 - Rustam Jamilov
-- Karsten Müller
 - admin
+- Karsten Müller
 - Farzad Saidi
 
 author_notes:
 - "University of Oxford"
-- "National University of Singapore"
 - "University of Bonn"
+- "National University of Singapore"
 - "University of Bonn"
 
 date: "2023-12-20T00:00:00Z"
@@ -28,14 +28,14 @@ publication_types: ["3"]
 publication: ""
 publication_short: "Draft coming soon"
 
-abstract: We study the macroeconomic causes and consequences of bank runs in 178 countries over the period of 1800-2022. A new narrative chronology of bank run events coupled with a newly constructed historical dataset on banking sector deposits allows us to distinguish between systemic bank runs---those associated with substantial declines in aggregate deposits---and more idiosyncratic episodes. We find that bank runs are typically associated with large contractions in deposits, credit, and output, as well as exchange rate crashes and sudden stops. The size of the deposit contraction during runs, in turn, predicts the severity of output declines, highlighting that bank runs are particularly costly when they are systemic in nature. Using several sources of historical and contemporary bank-level data, we show that systemic bank runs are associated with a wide dispersion in deposit growth rates and a flow of deposits from more leveraged to safer banks. Taken together, our analysis highlights a key role for the liability side of banks in financial crises, and our new quantitatively validated measures of runs offer unprecedented scope to study such episodes.
+abstract: We study the macroeconomic causes and consequences of bank runs in 184 countries over the period of 1800-2022. A new narrative chronology of bank run events coupled with a newly constructed historical dataset on banking sector deposits allows us to distinguish between systemic bank runs---those associated with substantial declines in aggregate deposits---and non-systemic episodes. We find that bank runs are typically associated with large contractions in deposits, credit, and output, as well as exchange rate crashes and sudden stops. Whether deposits contract during runs, in turn, predicts the severity of output declines, highlighting that bank runs are particularly costly when they are systemic in nature. Using several sources of historical and contemporary bank-level data, we show that systemic bank runs are associated with a wide dispersion in deposit growth rates and a flow of deposits from more leveraged to safer banks. Taken together, our analysis highlights a key role for the liability side of banks in financial crises, and our new quantitatively validated measure of bank runs provides unprecedented scope for studying such episodes.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- bank runs panics
-- panics
+- bank runs 
+- banking panics
 - banking crises
 - deposits
 
