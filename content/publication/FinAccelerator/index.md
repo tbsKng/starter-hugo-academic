@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'DIW Berlin and Humboldt University of Berlin'
+  - 'University of Bonn'
 
 date: '2023-12-11T00:00:00Z'
 doi: ''
