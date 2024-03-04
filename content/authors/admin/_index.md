@@ -84,5 +84,5 @@ highlight_name: true
 
 I am a postdoctoral researcher at the [Institute of Finance and Statistics](https://www.econ.uni-bonn.de/ifs/en/people/finance-group) at the economics department of the University of Bonn and the [Collaborative Research Center (CRC) TR 224](https://www.crctr224.de/). I received my PhD in 2022 from [Humboldt University of Berlin](https://www.wiwi.hu-berlin.de/en/mainpage) and the [DIW Graduate Center](https://www.diw.de/de/diw_01.c.619412.de/graduate_center.html). 
 
-Download my [CV](https://drive.google.com/file/d/1P06EGwYLWAVI11RaJ3niweeRuwVpCi4E/view?usp=sharing).
+Download my [CV](uploads/CV_Tobias_Koenig.pdf).
 {style="text-align: justify;"}
