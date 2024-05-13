@@ -4,7 +4,7 @@ title: QCGBF Annual Conference 2024
 event: Qatar Centre for Global Banking and Finance Annual Conference 2024
 event_url: https://www.qcgbfconference.org/
 
-location: King’s Business School
+location: King's Business School
 address: Bush House
   street: 
   city: London
