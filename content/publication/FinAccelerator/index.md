@@ -24,10 +24,10 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *DIW Discussion Papers, 1860*
-publication_short: In *DIW Discussion Papers, 1860*. Currently **R&R** in **Journal of International Money and Finance**
+publication: In *Journal of International Money and Finance*
+publication_short: In *Journal of International Money and Finance*. **In press**.
 
-abstract:  This paper studies the effects of labor market outcomes on firms’ loan demand and on credit intermediation. In a first step, I investigate how wages in the production sector affect bank net worth and the process of financial intermediation in partial equilibrium. Second, the role of the identified channels are studied in general equilibrium using a newKeynesian DSGE-model with financial frictions and an endogenous financial accelerator mechanism. Third, I investigate how perfect and imperfect labor markets, in a setting with interactions between production factor costs and the intermediation of credit, affect the transmission   mechanism of monetary policy. The analysis reveals that financial frictions reduce the factor demand elasticity of capital to a change in wages. This finding is relevant for the determination of optimal monetary policy, both for financial shocks and supply shocks inflation stabilization imposes high welfare costs. At the same time, stabilizing nominal wages becomes welfare beneficial by reducing both the volatility of the credit spread and the output gap.
+abstract:  I study the effects of labor market outcomes on firms' loan demand and credit intermediation. I first show in partial equilibrium that the presence of frictions in the banking sector lowers the capital factor demand elasticity to changes in real wages. This finding helps to connect the substitutability of labor and capital with credit conditions. Second, I use a new Keynesian banking model with an endogenous financial accelerator mechanism to study the role of lower capital factor demand elasticity in the transmission mechanism of monetary policy. Stabilizing nominal wages is close to the optimal monetary policy because it coincides with stabilizing the credit spread, the net worth gap, and the output gap. Inflation stabilization, in turn, imposes a policy trade-off with high welfare costs.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,7 +46,7 @@ featured: false
 #  - name: Policy Report
 #    url: https://www.diw.de/documents/publikationen/73/diw_01.c.795607.de/dwr-20-32-1.pdf
 
-url_pdf: 'https://www.diw.de/documents/publikationen/73/diw_01.c.758729.de/dp1860.pdf'
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0261560624001499?via%3Dihub'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -86,4 +86,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}} -->
 
 <!-- News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html). -->
-**Revise and resubmit at the Journal of International Money and Finance**
+**Accepted at the Journal of International Money and Finance**
