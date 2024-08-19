@@ -11,7 +11,7 @@ authors:
 author_notes:
   - 'University of Bonn'
 
-date: '2023-12-11T00:00:00Z'
+date: '2024-08-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Journal of International Money and Finance*
-publication_short: In *Journal of International Money and Finance*. **In press**.
+publication_short: In *Journal of International Money and Finance*. **In press**
 
 abstract:  I study the effects of labor market outcomes on firms' loan demand and credit intermediation. I first show in partial equilibrium that the presence of frictions in the banking sector lowers the capital factor demand elasticity to changes in real wages. This finding helps to connect the substitutability of labor and capital with credit conditions. Second, I use a new Keynesian banking model with an endogenous financial accelerator mechanism to study the role of lower capital factor demand elasticity in the transmission mechanism of monetary policy. Stabilizing nominal wages is close to the optimal monetary policy because it coincides with stabilizing the credit spread, the net worth gap, and the output gap. Inflation stabilization, in turn, imposes a policy trade-off with high welfare costs.
 
