@@ -29,7 +29,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: In *DIW Discussion Papers, 1873*
-publication_short: In *DIW Discussion Papers, 1873*
+publication_short: In *DIW Discussion Papers, 1873*. Currently **R&R** in **Journal of Money, Credit and Banking**
 
 abstract:  Recent proposals for a still missing European deposit insurance scheme (EDIS) argue in favor of a reinsurance framework. In this paper, we use a regime-switching open-economy DSGE model with bank default to assess the relative efficiency of such a scheme. We find that reinsurance by EDIS is more effective in stabilizing real activity, credit, and welfare than a national fiscal backstop. We demonstrate that risk-weighted contributions to EDIS are welfare-beneficial for depositors and discuss trade-offs policymakers face during the implementation of EDIS. We also find that macroprudential regulation and EDIS can complement each other and that EDIS can prevent bank runs under certain conditions.
 
@@ -86,8 +86,8 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
+{{% /callout %}} -->
 
-News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html). -->
+News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html).
 
-**Revise and resubmit at Journal of Money, Credit and Banking**
+**Revise and resubmit at Journal of Money, Credit and Banking**.
