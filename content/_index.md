@@ -208,10 +208,10 @@ sections:
     id: publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./publication/).
+      #   {{% /callout %}}
       filters:
         folders:
           - publication
@@ -223,10 +223,10 @@ sections:
     id: workingpapers
     content:
       title: Working Papers and Work in Progress
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./working_papers/).
-        {{% /callout %}}
+      # text: |-
+      #   {{% callout note %}}
+      #   Quickly discover relevant content by [filtering publications](./working_papers/).
+      #   {{% /callout %}}
       filters:
         folders:
           - working_papers
