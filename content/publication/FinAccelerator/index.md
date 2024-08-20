@@ -86,4 +86,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 {{% /callout %}} -->
 
 <!-- News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html). -->
-**Accepted at the Journal of International Money and Finance**
+<!-- **Accepted at the Journal of International Money and Finance** -->
