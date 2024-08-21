@@ -41,9 +41,9 @@ tags:
 
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "CEPR Discussion Paper"
+  url: "https://cepr.org/publications/dp19382"
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924699'
 url_code: ''
 url_dataset: ''
