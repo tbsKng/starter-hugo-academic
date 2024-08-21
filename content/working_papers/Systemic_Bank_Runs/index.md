@@ -25,8 +25,8 @@ publishDate: "2024-08-13T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: "On SSRN"
+publication: "CEPR Discussion Paper No. 19382"
+publication_short: "CEPR Discussion Paper No. 19382"
 
 abstract: "We study bank runs using a novel historical crosscountry dataset that covers 184 countries over the past 200 years and combines a new narrative chronology with statistical indicators of bank deposit withdrawals. We document the following facts: (i) the unconditional likelihood of a bank run is 1.2% and that of significant deposit withdrawals 12.7%; (ii) systemic bank runs, i.e. those that are accompanied by deposit withdrawals, are associated with substantially larger output losses than non-systemic runs or deposit contractions alone; (iii) bank runs are contractionary even when they are not triggered by fundamental causes, banks are wellcapitalized, and there is no evidence of a crisis or widespread failures in the banking sector; (iv) in historical and contemporary episodes, depositors tend to run on highly leveraged banks, causing a credit crunch, and a reallocation of deposits across banks; and (v) liability guarantees are associated with lower output losses after systemic runs, while having a lender of last resort or deposit insurance reduces the probability of a run becoming systemic. Taken together, our findings highlight a key role for sudden bank liability disruptions over and above other sources of financial fragility."
 
