@@ -17,7 +17,7 @@ abstract: 'We study bank runs using a novel historical cross-country dataset tha
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-09-04T15:00:00Z'
+date: '2024-10-04T15:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: true
 
