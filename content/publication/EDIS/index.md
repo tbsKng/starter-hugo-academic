@@ -15,7 +15,7 @@ author_notes:
   - 'The European Central Bank'
   - 'University of Bonn'
 
-date: '2023-04-18T00:00:00Z'
+date: '2024-09-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,11 +25,11 @@ doi: ''
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *DIW Discussion Papers, 1873*
-publication_short: In *DIW Discussion Papers, 1873*. **Forthcoming** in **Journal of Money, Credit and Banking**
+publication: In *Journal of Money, Credit and Banking, (Forthcoming)*
+publication_short: In *Journal of Money, Credit and Banking, (Forthcoming)*
 
 abstract:  Recent proposals for a European deposit insurance scheme (EDIS) favour a reinsurance framework. In this paper, we use a regime-switching open-economy DSGE model with bank defaults to assess the relative efficiency of such a scheme. We find that reinsurance by EDIS is more effective in stabilizing real activity, credit, and welfare than a national fiscal backstop. We demonstrate that risk-weighted contributions to EDIS are welfare-beneficial for depositors and discuss trade-offs policy makers face during the implementation of EDIS. We also find that macroprudential regulation and EDIS can complement each other and that EDIS can prevent bank runs under certain conditions.
 
@@ -46,10 +46,17 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
- - name: Policy Report
-   url: https://www.diw.de/documents/publikationen/73/diw_01.c.795607.de/dwr-20-32-1.pdf
 
-url_pdf: 'https://www.diw.de/documents/publikationen/73/diw_01.c.790118.de/dp1873.pdf'
+   - name: Online Appendix
+   url: https://drive.google.com/file/d/1f4I6Q4q9FGDqOeN41HCY9krVcXLxV3M3/view?usp=sharing
+
+  - name: Policy Report
+  url: https://www.diw.de/documents/publikationen/73/diw_01.c.795607.de/dwr-20-32-1.pdf
+
+  - name: DIW Discussion Paper
+   url: https://www.diw.de/documents/publikationen/73/diw_01.c.790118.de/dp1873.pdf
+
+url_pdf: 'https://drive.google.com/file/d/1YTXSNbfw9aTM-9PMQBbP_ps2dq0TaUWV/view?usp=sharing'
 url_code: ''
 url_dataset: ''
 url_poster: ''
