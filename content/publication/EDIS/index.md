@@ -47,8 +47,8 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 
-  #  - name: Online Appendix
-  #  url: https://drive.google.com/file/d/1f4I6Q4q9FGDqOeN41HCY9krVcXLxV3M3/view?usp=sharing
+   - name: Online Appendix
+   url: https://drive.google.com/file/d/1f4I6Q4q9FGDqOeN41HCY9krVcXLxV3M3/view?usp=sharing
 
   # - name: Policy Report
   # url: https://www.diw.de/documents/publikationen/73/diw_01.c.795607.de/dwr-20-32-1.pdf
