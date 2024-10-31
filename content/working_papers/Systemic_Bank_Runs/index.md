@@ -46,7 +46,7 @@ links:
   url: "https://cepr.org/publications/dp19382"
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924699'
 url_code: ''
-url_dataset: 'https://drive.google.com/file/d/1WYUGR4ApKzbaHX0Zj6NYjcW0T9OpACVL/view?usp=drive_link'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
