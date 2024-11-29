@@ -18,7 +18,7 @@ abstract: 'We study bank runs using a novel historical cross-country dataset tha
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-10-04T15:00:00Z'
-# date_end: '2030-06-01T15:00:00Z'
+# date_end: '2024-11-28T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -35,7 +35,7 @@ tags:
   - Deposits	
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image: 
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

@@ -44,12 +44,14 @@ featured: false
 links:
 - name: "CEPR Discussion Paper"
   url: "https://cepr.org/publications/dp19382"
+- name: "Systemic Run Website"
+  url: "https://www.systemicbankruns.com/"
 url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924699'
 url_code: ''
-url_dataset: 'https://drive.google.com/file/d/1WYUGR4ApKzbaHX0Zj6NYjcW0T9OpACVL/view?usp=drive_link'
+url_dataset: 'https://www.systemicbankruns.com/data'
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://users.ox.ac.uk/~econ0628/Systemic_Bank_Runs_JKMS_Slides.pdf'
 url_source: ''
 url_video: ''
 
