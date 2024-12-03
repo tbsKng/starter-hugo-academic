@@ -44,7 +44,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
  - name: "Ungated Version"
-   url: "https://drive.google.com/drive/folders/11krYR3Euvaqj_XayCFUu-et3d3bkiZBI?hl=DE"
+   url: "https://drive.google.com/file/d/1wYTOpnHJKeMUI0caajfhIsy7NYR9XA4L/view?usp=sharing"
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0261560624001499?via%3Dihub'
 url_code: ''
