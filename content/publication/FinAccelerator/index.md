@@ -42,9 +42,9 @@ tags:
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-#  - name: Policy Report
-#    url: https://www.diw.de/documents/publikationen/73/diw_01.c.795607.de/dwr-20-32-1.pdf
+links:
+ - name: "Ungated Version"
+   url: "https://drive.google.com/drive/folders/11krYR3Euvaqj_XayCFUu-et3d3bkiZBI?hl=DE"
 
 url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0261560624001499?via%3Dihub'
 url_code: ''
