@@ -46,6 +46,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: "Journal Article"
+  url: "https://onlinelibrary.wiley.com/doi/abs/10.1111/jmcb.13232"
 - name: "Online Appendix"
   url: "https://drive.google.com/file/d/1f4I6Q4q9FGDqOeN41HCY9krVcXLxV3M3/view?usp=sharing"
 - name: "Policy Report"
