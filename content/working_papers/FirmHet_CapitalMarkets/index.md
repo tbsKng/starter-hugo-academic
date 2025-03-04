@@ -4,7 +4,7 @@ authors:
 - admin
 author_notes:
 - "University of Bonn"
-date: "2023-02-01T00:00:00Z"
+date: "2025-03-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +20,12 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: I investigate the importance of different types of financial constraints on firms for the transmission of aggregate equity demand shocks and monetary policy shocks. I construct an aggregate series for equity financing shocks from firm-level data using the Granular Instrumental Variables strategy. I find that firms with high expected future profitability increase their investment relatively more when capital market funding conditions are exogenously improved. The relevance of Tobin’s Q cannot be confirmed however for the transmission of monetary policy shocks. Instead, firm liquidity explains the heterogeneity in firm investment rates. The level of firm debt is only significant for the transmission of monetary policy prior to the zero lower bound periods. My results imply that policymakers have to consider the role of both monetary policy and access to capital markets to stimulate firm investment.
+abstract: "I examines how financial constraints shape the transmission of aggregate external equity financing shocks to firms' equity issuance, changes in outstanding debt, and investment. I construct an instrument for aggregate equity financing shocks from firm-level data using the Granular Instrumental Variable (GIV) method. The empirical analysis reveals marked heterogeneity in firms’ responses: financially unconstrained firms, as proxied by high cash holdings and dividend-paying status, increase equity issuance significantly by about 1.2 percentage points, substitute equity for debt, and significantly increase investment when capital market conditions improve. Highly leveraged firms in contrast refuse both to issue new equity and to reduce outstanding debt consistent with the leverage ratchet effect. In line with existing evidence on the adverse effects of debt overhang, highly leveraged firms invest 2 percentage points less compared to the average firm in the sample. These findings underscore the importance of considering firm heterogeneity in capital market frictions."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Firm Heterogeneity
 - Capital Markets
 - External Equity Financing
 - Granular Instrumental Variable
