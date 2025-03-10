@@ -34,8 +34,8 @@ doi: ''
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Norges Bank Working Paper, 5|2023*
-publication_short: In *Norges Bank Working Paper, 5|2023*
+publication: Reject and resubmit at the **Journal of Monetary Economics**
+publication_short: Reject and resubmit at the **Journal of Monetary Economics**
 
 abstract:  We investigate the transmission of monetary policy to investment using Norwegian administrative data. We have two main findings. First, financially constrained firms are more responsive to monetary policy, but the effect is modest; suggesting that firm heterogeneity plays a minor role in monetary transmission. Second, we disentangle the investment channel of monetary policy into direct effects from interest rate changes and indirect general equilibrium effects. We find that the investment channel of monetary policy is due almost exclusively to direct effects. The two results imply that a representative firm framework with investment adjustment frictions in most cases provides a sufficiently detailed description of the investment channel of monetary policy.
 
