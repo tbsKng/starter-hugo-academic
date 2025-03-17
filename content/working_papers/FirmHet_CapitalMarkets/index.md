@@ -1,10 +1,10 @@
 ---
-title: "Firm Heterogeneity and the Capital Market"
+title: "Financial Constraints and the Micro Origins of Aggregate Equity Shocks in Capital Markets"
 authors:
 - admin
 author_notes:
 - "University of Bonn"
-date: "2025-03-04T00:00:00Z"
+date: "2025-03-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,8 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "I examines how financial constraints shape the transmission of aggregate external equity financing shocks to firms' equity issuance, changes in outstanding debt, and investment. I construct an instrument for aggregate equity financing shocks from firm-level data using the Granular Instrumental Variable (GIV) method. The empirical analysis reveals marked heterogeneity in firms’ responses: financially unconstrained firms, as proxied by high cash holdings and dividend-paying status, increase equity issuance significantly by about 1.2 percentage points, substitute equity for debt, and significantly increase investment when capital market conditions improve. Highly leveraged firms in contrast refuse both to issue new equity and to reduce outstanding debt consistent with the leverage ratchet effect. In line with existing evidence on the adverse effects of debt overhang, highly leveraged firms invest 2 percentage points less compared to the average firm in the sample. These findings underscore the importance of considering firm heterogeneity in capital market frictions."
+abstract: "I examine how financial constraints shape the transmission of aggregate external equity financing shocks to firms' equity issuance, outstanding debt, and investment. I construct a novel instrument for aggregate equity financing shocks from firm-level data using the Granular Instrumental Variable (GIV) strategy. 
+ I find that financially unconstrained firms--characterized by high cash holdings and dividend-paying status--increase equity issuance by 1.8–2.0 percentage points, substitute equity for debt, and boost investment when capital market conditions improve. Highly leveraged firms, in contrast, refuse both to issue new equity and to reduce outstanding debt, consistent with the leverage ratchet effect. The debt overhang of highly leveraged firms results in 1.9 percentage points lower investment rates compared to the average firm. These results emphasize the crucial role of financial constraints in external equity financing and highlight the broader macroeconomic implications of debt overhang."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
