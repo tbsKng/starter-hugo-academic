@@ -33,9 +33,9 @@ tags:
 - Financial Constraints
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
+links:
+- name: "CRC 224 Discussion Paper"
+  url: "https://www.crctr224.de/research/discussion-papers/archive/dp675"
 url_pdf: 'https://drive.google.com/file/d/1Ji2rqj7YTyLYB589T1fQArlpY2mupdQt/view?usp=sharing'
 url_code: ''
 url_dataset: ''
