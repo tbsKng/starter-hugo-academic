@@ -34,10 +34,10 @@ abstract: "We study bank runs using a novel historical cross-country dataset tha
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- bank runs 
-- banking panics
-- banking crises
-- deposits
+- Bank Runs 
+- Banking Panics
+- Banking Crises
+- Retail Deposits
 
 featured: false
 
