@@ -44,17 +44,17 @@ summary: We investigate the transmission of monetary policy to investment using 
 
 tags:
   - Monetary Policy
-  - Investment
+  - Firm Investment
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: "Norges Bank Research Paper 5|2023"
+  url: "https://www.norges-bank.no/contentassets/c1d5abeb4c9744b081d5f5e65eaecbe6/wp_2023-5.pdf?v=06/14/2023161041"
 
-url_pdf: 'https://www.norges-bank.no/contentassets/c1d5abeb4c9744b081d5f5e65eaecbe6/wp_2023-5.pdf?v=06/14/2023161041'
+url_pdf: 'https://drive.google.com/file/d/1VWbKvkKcWtKqUC-tP_G01x3vYVDfvYCa/view'
 url_code: ''
 url_dataset: ''
 url_poster: ''
