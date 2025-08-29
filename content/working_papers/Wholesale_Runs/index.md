@@ -36,10 +36,10 @@ abstract: "We study the incidence and macroeconomic consequences of wholesale fu
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- wholesale funding runs 
-- banking crises
-- wholesale funding
-- bank liability structure
+- Bank Runs 
+- Banking Crises
+- Wholesale Funding
+- Bank Liability Structure
 
 featured: false
 
