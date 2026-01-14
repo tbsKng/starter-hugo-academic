@@ -21,7 +21,7 @@ author_notes:
   - 'University of Bonn'
   - 'BI Norwegian Business School'
 
-date: '2023-05-11T00:00:00Z'
+date: '2025-12-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
