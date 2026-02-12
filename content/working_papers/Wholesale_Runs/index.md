@@ -1,5 +1,5 @@
 ---
-title: "Wholesale Funding Runs, 1800-2024"
+title: "Wholesale Funding Crises since 1800"
 authors:
 - Rustam Jamilov
 - admin
