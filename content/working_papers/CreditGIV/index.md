@@ -33,7 +33,7 @@ abstract: "This paper studies the micro origins of credit supply shocks and thei
 tags:
 - Credit Supply 
 - Credit Registry Data
-- GIV
+- Granular Instrumental Variable
 - Borrower Heterogeneity
 
 featured: false
