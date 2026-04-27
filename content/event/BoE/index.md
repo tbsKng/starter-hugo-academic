@@ -22,7 +22,7 @@ date: '2026-05-07T11:45:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-14-27T00:00:00Z'
+publishDate: '2026-04-27T00:00:00Z'
 
 authors:
   - Rustam Jamilov
