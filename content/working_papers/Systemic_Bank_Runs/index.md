@@ -12,11 +12,11 @@ author_notes:
 - "National University of Singapore"
 - "University of Bonn"
 
-date: "2025-08-13T00:00:00Z"
+date: "2026-07-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-08-13T00:00:00Z"
+publishDate: "2026-07-15T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,11 @@ publication_types: ["3"]
 publication: "CEPR Discussion Paper No. 19382"
 publication_short: "CEPR Discussion Paper No. 19382"
 
-abstract: "We study bank runs using a novel historical cross-country dataset that covers 184 countries since 1800 and combines a new narrative chronology with statistical indicators of bank deposit withdrawals. We document the following facts: (i) the unconditional likelihood of a bank run is 1.9%, and that of significant deposit withdrawals is 12.5%; (ii) systemic bank runs—those that are accompanied by deposit withdrawals—are associated with substantially larger output losses than non-systemic runs or deposit contractions alone; (iii) bank runs are contractionary even when they are not triggered by fundamental causes, banks are well-capitalized, and there is no evidence of a crisis or widespread failures in the banking sector; (iv) in both historical and contemporary episodes, depositors tend to run on highly leveraged banks, which leads to a credit crunch and a reallocation of deposits across banks; and (v) liability guarantees are associated with lower output losses after systemic runs, while having a lender of last resort or deposit insurance reduces the probability of a run becoming systemic. Overall, our findings highlight a key role of sudden bank liability disruptions in economic  fluctuations, over and above other sources of financial fragility."
+abstract: "We study bank runs since 1800, combining a new narrative chronology of 405 episodes across 192 countries—half absent from existing crisis chronologies—with
+novel deposit data. Systemic runs—those with country-level deposit outflows—are followed by output losses of 9% over five years and sharp credit contractions, while
+non-systemic runs leave little macroeconomic footprint. One in six runs lacks an identifiable fundamental trigger; output costs are more severe when a fundamental
+cause is present, yet panic-driven runs remain costly. Deposit insurance and central banks are associated with fewer systemic runs; liquidity support and liability
+guarantees with smaller output losses."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -46,12 +50,12 @@ links:
   url: "https://cepr.org/publications/dp19382"
 - name: "Systemic Run Website"
   url: "https://www.systemicbankruns.com/"
-url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924699'
+# url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924699'
 url_code: ''
 url_dataset: 'https://www.systemicbankruns.com/data'
 url_poster: ''
 url_project: ''
-url_slides: 'https://users.ox.ac.uk/~econ0628/Systemic_Bank_Runs_JKMS_Slides.pdf'
+# url_slides: 'https://users.ox.ac.uk/~econ0628/Systemic_Bank_Runs_JKMS_Slides.pdf'
 url_source: ''
 url_video: ''
 
