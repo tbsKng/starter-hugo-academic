@@ -50,7 +50,7 @@ links:
   url: "https://cepr.org/publications/dp19382"
 - name: "Systemic Run Website"
   url: "https://www.systemicbankruns.com/"
-# url_pdf: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4924699'
+url_pdf: 'https://drive.google.com/file/d/1mwWfkLjtElx5_QFnjyf97zg5cvgJ51Ix/view?usp=sharing'
 url_code: ''
 url_dataset: 'https://www.systemicbankruns.com/data'
 url_poster: ''
