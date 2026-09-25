@@ -15,7 +15,7 @@ author_notes:
   - 'The European Central Bank'
   - 'University of Bonn'
 
-date: '2024-09-11T00:00:00Z'
+date: '2026-09-25T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -95,4 +95,4 @@ Create your slides in Markdown - click the _Slides_ button to check out the exam
 
 News Coverage: [Handelsblatt](https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/diw-studie-europaeische-einlagensicherung-wuerde-folgen-von-insolvenzwelle-mildern/26065636.html).
 
-**Forthcoming in the Journal of Money, Credit and Banking**.
+**Journal of Money, Credit and Banking, 2026, 58(6), 1791--1838**.
