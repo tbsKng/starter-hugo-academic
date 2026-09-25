@@ -28,8 +28,8 @@ doi: ''
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Money, Credit and Banking, (Forthcoming)*
-publication_short: In *Journal of Money, Credit and Banking, (Forthcoming)*
+publication: In *Journal of Money, Credit and Banking, 2026, 58(6), 1791-1838*
+publication_short: In *Journal of Money, Credit and Banking, 2026, 58(6), 1791-1838*
 
 abstract:  Recent proposals for a European deposit insurance scheme (EDIS) favour a reinsurance framework. In this paper, we use a regime-switching open-economy DSGE model with bank defaults to assess the relative efficiency of such a scheme. We find that reinsurance by EDIS is more effective in stabilizing real activity, credit, and welfare than a national fiscal backstop. We demonstrate that risk-weighted contributions to EDIS are welfare-beneficial for depositors and discuss trade-offs policy makers face during the implementation of EDIS. We also find that macroprudential regulation and EDIS can complement each other and that EDIS can prevent bank runs under certain conditions.
 
