@@ -2,6 +2,12 @@
 title: WorkingPapers
 cms_exclude: true
 
+# Use the publication page design for all papers in this folder
+cascade:
+  - _target:
+      kind: page
+    type: publication
+
 # View.
 #   1 = List
 #   2 = Compact
