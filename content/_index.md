@@ -223,6 +223,7 @@ sections:
     id: workingpapers
     content:
       title: Working Papers and Work in Progress
+      count: 0          # <-- add this line: 0 = show all items
       # text: |-
       #   {{% callout note %}}
       #   Quickly discover relevant content by [filtering publications](./working_papers/).
