@@ -1,28 +1,28 @@
 ---
-title: 1st Workshop on Financial Intermediation
+title: European Winter Meeting of the Econometric Society
 
-event: 1st Workshop on Financial Intermediation
-event_url: https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/1st-workshop-on-financial-intermediation--banco-de-espana.html#
+event: European Winter Meeting of the Econometric Society
+event_url: https://ewmes2026.pl/
 
-location: Banco de España
+location: University of Warsaw
 address:
   street:
-  city: Madrid
+  city: Warsaw
   region: 
   postcode: 
-  country: Spain
+  country: Poland
 
 summary: Wholesale Funding Crises since 1800
 abstract: 'We study the incidence and macroeconomic consequences of wholesale funding crises using a novel narrative chronology and newly constructed data on banks liability structures for 147 countries from 1800 to 2024. Wholesale crises have occurred with unprecedented frequency over the past three decades and have become more common than retail bank runs, especially in advanced economies. We show that wholesale crises are predictable using observable fundamentals such as non-deposit funding growth and bank capital ratios. The macroeconomic fallout from wholesale funding crises is severe when accompanied by contractions in non-deposit funding, and can exceed the costs of retail deposit runs, consistent with wholesale creditors possessing superior information about bank solvency. While deposit insurance reduces the likelihood of retail bank runs, it increases the probability of wholesale funding crises, indicating that run risk is reallocated from insured retail depositors to uninsured wholesale creditors.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2026-05-07T11:45:00Z'
+date: '2026-12-02T11:45:00Z'
 # date_end: '2024-11-28T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-04-27T00:00:00Z'
+publishDate: '2026-11-06T00:00:00Z'
 
 authors:
   - Rustam Jamilov

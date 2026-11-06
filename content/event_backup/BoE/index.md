@@ -1,38 +1,41 @@
 ---
-title: BoE Financial Stability Seminar
+title: 1st Workshop on Financial Intermediation
 
-event: BoE Financial Stability Seminar
-event_url: 
+event: 1st Workshop on Financial Intermediation
+event_url: https://www.bde.es/wbe/en/noticias-eventos/eventos/conferencias/1st-workshop-on-financial-intermediation--banco-de-espana.html#
 
-location: Bank of England
-address: 
-  street: 
-  city: London
+location: Banco de España
+address:
+  street:
+  city: Madrid
   region: 
   postcode: 
-  country: United Kingdom
+  country: Spain
 
-summary: Two Centuries of Systemic Bank Runs
-abstract: 'We study bank runs using a novel historical cross-country dataset that covers 184 countries since 1800 and combines a new narrative chronology with statistical indicators of bank deposit withdrawals. We document the following facts: (i) the unconditional likelihood of a bank run is 1.9%, and that of significant deposit withdrawals is 12.5%; (ii) systemic bank runs---those that are accompanied by deposit withdrawals---are associated with substantially larger output losses than non-systemic runs or deposit contractions alone; (iii) bank runs are contractionary even when they are not triggered by fundamental causes, banks are well-capitalized, and there is no evidence of a crisis or widespread failures in the banking sector; (iv) in both historical and contemporary episodes, depositors tend to run on highly leveraged banks, which leads to a credit crunch and a reallocation of deposits across banks; and (v) liability guarantees are associated with lower output losses after systemic runs, while having a lender of last resort or deposit insurance reduces the probability of a run becoming systemic. Overall, our findings highlight a key role of sudden bank liability disruptions in economic fluctuations, over and above other sources of financial fragility.'
+summary: Wholesale Funding Crises since 1800
+abstract: 'We study the incidence and macroeconomic consequences of wholesale funding crises using a novel narrative chronology and newly constructed data on banks liability structures for 147 countries from 1800 to 2024. Wholesale crises have occurred with unprecedented frequency over the past three decades and have become more common than retail bank runs, especially in advanced economies. We show that wholesale crises are predictable using observable fundamentals such as non-deposit funding growth and bank capital ratios. The macroeconomic fallout from wholesale funding crises is severe when accompanied by contractions in non-deposit funding, and can exceed the costs of retail deposit runs, consistent with wholesale creditors possessing superior information about bank solvency. While deposit insurance reduces the likelihood of retail bank runs, it increases the probability of wholesale funding crises, indicating that run risk is reallocated from insured retail depositors to uninsured wholesale creditors.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-03T13:00:00Z'
+date: '2026-05-07T11:45:00Z'
 # date_end: '2024-11-28T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-05-12T00:00:00Z'
+publishDate: '2026-04-27T00:00:00Z'
 
 authors:
   - Rustam Jamilov
   - admin
+  - Sami K. Mahmood
   - Karsten Müller
   - Farzad Saidi
+
 tags:
-  - Bank Runs
-  - Banking Crises
-  - Deposits	
+  - Wholesale funding
+  - Bank runs
+  - Deposit insurance
+  - Economic history
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -64,7 +67,7 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 working_papers:
- - Systemic_Bank_Runs
+ - Wholesale_Runs
 ---
 
 <!-- {{% callout note %}}
