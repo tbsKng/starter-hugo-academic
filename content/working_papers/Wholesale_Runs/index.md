@@ -10,8 +10,8 @@ authors:
 author_notes:
 - "University of Oxford"
 - "University of Bonn"
-- "National University of Singapore"
-- "National University of Singapore"
+- "Özyeğin University"
+- "Goethe University"
 - "University of Bonn"
 
 date: "2025-08-29T00:00:00Z"
@@ -30,7 +30,7 @@ publication_types: ["3"]
 # publication: ""
 # publication_short: ""
 
-abstract: "We study the incidence and macroeconomic consequences of wholesale funding runs in 143 countries from 1800 to 2024. We construct a new narrative chronology on wholesale runs from 578 sources and use historical data on banks' liability structure to measure run severity.  Wholesale runs have happened with unprecedented frequency over the last 20 years, are more frequent than retail runs, and are concentrated in countries where deposit insurance shields retail depositors. As a result, bank runs either by wholesale or retail creditors now have happen with unprecedented frequency.  Wholesale funding runs are associated with larger output gaps than retail runs, especially when explained by foreign withdrawals (``sudden stops''). At least in part, this is because retail depositors are more likely to run for reasons unrelated to financial and macroeconomic fundamentals. Greater reliance on wholesale funding is linked to deeper output contractions after runs and banking crises, but not after recessions outside of crisis periods. Overall, our findings point to a structural shift in financial stability risks: wholesale funding markets have diversified banks' funding sources but also increased the likelihood of severe, non-linear shocks to the real economy."
+abstract: "We study the incidence and macroeconomic consequences of wholesale funding crises using a novel narrative chronology and newly constructed data on banks' liability structures for 147 countries from 1800 to 2024. Wholesale crises have occurred with unprecedented frequency over the past three decades and have become more common than retail bank runs, especially in advanced economies. We show that wholesale crises are predictable using observable fundamentals such as non-deposit funding growth and bank capital ratios. The macroeconomic fallout from wholesale funding crises is severe when accompanied by contractions in non-deposit funding, and can exceed the costs of retail deposit runs, consistent with wholesale creditors possessing superior information about bank solvency. While deposit insurance reduces the likelihood of retail bank runs, it increases the probability of wholesale funding crises, indicating that run risk is reallocated from insured retail depositors to uninsured wholesale creditors."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

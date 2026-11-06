@@ -28,20 +28,15 @@ publication_types: ["3"]
 publication: "CEPR Discussion Paper No. 19382"
 publication_short: "CEPR Discussion Paper No. 19382"
 
-abstract: "We study bank runs since 1800, combining a new narrative chronology of 405 episodes across 192 countries—half absent from existing crisis chronologies—with
-novel deposit data. Systemic runs—those with country-level deposit outflows—are followed by output losses of 9% over five years and sharp credit contractions, while
-non-systemic runs leave little macroeconomic footprint. One in six runs lacks an identifiable fundamental trigger; output costs are more severe when a fundamental
-cause is present, yet panic-driven runs remain costly. Deposit insurance and central banks are associated with fewer systemic runs; liquidity support and liability
-guarantees with smaller output losses."
+abstract: "Bank runs are a central concern for financial stability, yet empirical evidence on their incidence and macroeconomic aftermath remains scarce. We construct a novel database of bank runs covering 192 countries since 1800, combining narrative evidence from 667 sources with statistical indicators of aggregate deposit contractions. Systemic runs---those accompanied by country-level deposit outflows---are followed by output losses of around 9% over five years, far larger than those following non-systemic runs or deposit contractions outside of runs. The output costs of systemic runs are more severe when a fundamental cause is present, yet runs remain costly even when they are panic-driven rather than due to deteriorating fundamentals. Deposit insurance and the presence of a central bank are associated with a lower probability of runs turning systemic, and liquidity support and liability guarantees with smaller output losses. Our findings suggest that both fundamentals and disruptions to bank liabilities shape the downturns that accompany bank runs."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Bank Runs 
-- Banking Panics
-- Banking Crises
-- Retail Deposits
+- Bank runs 
+- Banking crises
+- Retail deposits
 
 featured: false
 
