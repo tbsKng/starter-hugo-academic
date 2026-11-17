@@ -30,7 +30,7 @@ publication_types: ["3"]
 # publication: ""
 # publication_short: ""
 
-abstract: "We study the incidence and macroeconomic consequences of wholesale funding crises using a novel narrative chronology and newly constructed data on banks' liability structures for 147 countries from 1800 to 2024. Wholesale crises have occurred with unprecedented frequency over the past three decades and have become more common than retail bank runs, especially in advanced economies. We show that wholesale crises are predictable using observable fundamentals such as non-deposit funding growth and bank capital ratios. The macroeconomic fallout from wholesale funding crises is severe when accompanied by contractions in non-deposit funding, and can exceed the costs of retail deposit runs, consistent with wholesale creditors possessing superior information about bank solvency. While deposit insurance reduces the likelihood of retail bank runs, it increases the probability of wholesale funding crises, indicating that run risk is reallocated from insured retail depositors to uninsured wholesale creditors."
+abstract: "We study the incidence and macroeconomic aftermath of wholesale funding crises using a novel narrative chronology and newly constructed data on bank liabilities for 147 countries from 1800 to 2024. Wholesale funding crises have occurred with unprecedented frequency over the past three decades and have become more common than retail bank runs. We show that wholesale crises are more predictable than retail depositor runs using fundamentals such as banks' capitalization, the noncore funding to retail deposits ratio, and external factors such as foreign borrowing and U.S. interest rates, consistent with wholesale creditors possessing superior information about bank solvency. The macroeconomic aftermath of wholesale funding crises is also more severe. Wholesale funding crises cluster across countries more than retail runs, and clustered runs are followed by larger output losses than isolated ones. Deposit insurance is associated with a higher probability of wholesale funding crises, indicating that run risk is reallocated from insured retail depositors to uninsured wholesale creditors."
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -48,7 +48,7 @@ featured: false
 #   url: ""
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://drive.google.com/file/d/1GkoeMw1Sl0xqavVL2CatanZouqH_eZ7W/view?usp=drive_link'
 url_code: ''
 url_dataset: ''
 url_poster: ''
